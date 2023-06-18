@@ -1,2 +1,2 @@
-# go-rest-movies
-Exploring GO by creating RESTful endpoints for playing with movies
+# go-rest-mongo
+Exploring GO by creating RESTful endpoints using MongoDB
